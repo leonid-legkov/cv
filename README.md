@@ -39,7 +39,7 @@ Discussing development plans, designing architecture, prototyping, participating
 
 ## Languages
 **Russian**: Native \
-**English**: B2
+**English**: Advanced
  
 ## Education
  Specialist degree in Mathematics and System Development \
