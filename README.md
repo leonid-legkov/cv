@@ -14,7 +14,7 @@ Software Developer with 20 years of experience \
 
 ## Experience
 **Senior Software Developer** @ [Positive Technologies](https://www.ptsecurity.com/) since Apr 2016 \
-Core platform for SIEM (Security Information and Event Management) and VM (Vulnerability Management) products: I designed the architecture, the API and developed 15+ features of various complexity, including developing entirely new functionality from scratch and implementing several novel microservices.
+Core platform for SIEM (Security Information and Event Management) and VM (Vulnerability Management) products: I designed the architecture, the API and developed 15+ features of various complexity, including implementing entirely new functionality from scratch and developing several novel microservices.
 
 Responsibilities: Developing, requirements analysis, providing design estimation, writing high-level design documentation, architecture and API design.
 
