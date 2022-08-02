@@ -1,7 +1,7 @@
 # Leonid Legkov
 
 Software Developer with 20 years of experience \
-[LinkedIn](https://www.linkedin.com/in/leonid-legkov-0a62299) / [GitHub](https://github.com/leonid-legkov)
+[LinkedIn](https://www.linkedin.com/in/leonid-legkov-0a62299) / [GitHub](https://github.com/leonid-legkov) / Qiryat Yam, Haifa, Israel
 
 ## Skill Highlights
  - Complete software development life cycle expertise
@@ -39,7 +39,8 @@ Discussing development plans, designing architecture, prototyping, participating
 
 ## Languages
 **Russian**: Native \
-**English**: Advanced
+**English**: Advanced \
+**Hebrew**: Aleph
  
 ## Education
  Specialist degree in Mathematics and System Development \
